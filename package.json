@@ -10,12 +10,10 @@
   },
   "description": "",
   "devDependencies": {},
-"scripts": {
-  "start": "node index.js"
-}
+  "scripts": {
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
   "type": "commonjs"
 }
-
